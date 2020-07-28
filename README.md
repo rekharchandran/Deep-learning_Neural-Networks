@@ -1,4 +1,4 @@
-# Deep Learning Specialization Course.
+# [Deep Learning Specialization Course](https://www.deeplearning.ai/).
 ### Neural-Networks-and-Deep-Learning
 This repo contains solutions of all the Programming assignments given during the course.
 #### 1. Neural Networks and Deep Learning
