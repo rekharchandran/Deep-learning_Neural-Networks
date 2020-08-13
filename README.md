@@ -12,3 +12,5 @@ This repo contains solutions of all the Programming assignments given during the
 
 #### 4. Convolutional Neural Networks
 
+#### 5. Sequence Models
+
